@@ -1,0 +1,1 @@
+### This python script automates and schedules email reminders for staff and team members regarding recurring tasks, such as daily reports, attendance, and much more. The script can be easily modified according to your database, table, and column names.
