@@ -1,0 +1,1 @@
+### Recovered a legacy website for my company's client from archive.org by building an automated Python solution to extract pages and content. Created an additional automation script to publish articles to WordPress with accurate author mapping.
